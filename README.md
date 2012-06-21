@@ -1,4 +1,4 @@
 faux-mvc
 ========
 
-faux-mvc
+Basic fake MVC framework.
